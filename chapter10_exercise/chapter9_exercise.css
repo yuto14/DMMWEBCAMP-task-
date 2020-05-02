@@ -63,7 +63,7 @@ h2 {
 @media screen and (max-width:768px) {
 	main {
 		width: 100%;
-		padding: 50px 5%;
+		padding: 0px 5%;
 	}
 	.box {
 		width: 100%;
